@@ -1,0 +1,186 @@
+body{
+    background-color: rgb(211, 129, 34);
+}
+#cabelo{
+    background-color: #070707;
+    border-radius: 7rem;
+    width: 250px;
+    height: 250px;
+    margin-left: 40rem;
+    margin-top: 15rem;
+    position: relative;
+}
+#cabelo_frente{
+    background-color: #070707;
+    border-radius: 7rem;
+    width: 150px;
+    height: 550px;
+    margin-left: 3rem;
+    margin-top: -12rem;
+    position: relative;
+}
+#cabelo_frente_2{
+    background-color: #070707;
+    border-radius: 7rem;
+    width: 180px;
+    height: 250px;
+    margin-left: 2rem;
+    position: relative;
+}
+#cabelo_frente_3{
+    background-color: #070707;
+    border-radius: 7rem;
+    width: 180px;
+    height: 250px;
+    margin-left: -3.5rem;
+    margin-top: -15.5rem;
+    position: relative;
+}
+#cabelo_frente_4{
+    background-color: #070707;
+    border-radius:  0 7rem;
+    width: 130px;
+    height: 80px;
+    margin-top: 1rem;
+    margin-left: 7.4rem;
+    position: relative;
+}
+#cabelo_frente_5{
+    background-color: #070707;
+    border-radius:  7rem 0 ;
+    width: 130px;
+    height: 80px;
+    margin-top: -5rem;
+    margin-right: 7.4rem;
+    position: relative;
+}
+#cabelo_direita{
+    background-color: #070707;
+    border-radius: 7rem;
+    width: 100px;
+    height: 100px;
+    margin-top: -17rem;
+    position: relative;
+}
+
+#cabelo_direita_2{
+    background-color: #070707;
+    border-radius: 7rem;
+    width: 100px;
+    height: 100px;
+    margin-top: -1rem;
+    position: relative;
+}
+/*esquerda*/
+#cabelo_esquerda{
+    background-color: #070707;
+    border-radius: 7rem;
+    width: 100px;
+    height: 100px;
+    margin-top: -18rem;
+    position: relative;
+    margin-left: 10rem;
+}
+#cabelo_esquerda_2{
+    background-color: #070707;
+    border-radius: 7rem;
+    width: 100px;
+    height: 100px;
+    margin-top: -1rem;
+    position: relative;
+    margin-left: 10rem;
+}
+#cabeca{
+    background-color: #e9cb9f;
+    border-radius: 7rem ;
+    width: 250px;
+    height: 300px;
+    margin-left: 40rem;
+    margin-top: -14rem;
+    position: relative;
+}
+.olhos{
+    display: flex;
+    justify-content: space-around;
+    margin-top: -4.5rem;
+}
+#olhos_esquerdo, #olhos_direito{
+    background-color: #050505;
+    width: 50px;
+    height: 45px;
+    margin-top: 5rem;
+    border-radius: 2rem 2rem 1rem 1rem;
+}
+#brilho{
+    background-color: #ffffff;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    margin-top: 0.5rem;
+    margin-left: 9px;
+    position: relative;
+}
+#brilho_2{
+    background-color: #ffffff;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    margin-top: 0.5rem;
+    margin-left: 15px;
+    position: relative;
+}
+#boca{
+    background-color: #381010;
+    width: 125px;
+    height: 80px;
+    margin-top: 2.5rem;
+    margin-left: 3.7rem;
+    border-radius: 0.5rem 0.5rem 3rem 3rem;
+}
+#dentes{
+    background-color: #ece6d0;
+    width: 122px;
+    height: 30px;
+    margin-top: -3.8rem;
+    border-radius: 0.5rem 0.5rem 2rem 2rem;
+}
+#dentro{
+    background-color: #812a2a;
+    width: 90px;
+    height: 60px;
+    margin-right: 1rem;
+    margin-top: 1rem;
+    border-radius: 1rem 1rem 2rem 2rem;
+}
+#orelha_esquerda{
+    background-color: #e2c79d;
+    border-radius: 7rem 0 0 7rem;
+    width: 40px;
+    height: 100px;
+    margin-left: 38rem;
+    margin-top: -12rem;
+} 
+#orelha_direita{
+    background-color: #e2c79d;
+    border-radius: 0 7rem 7rem 0 ;
+    width: 40px;
+    height: 100px;
+    margin-left: 55rem;
+    margin-top: -6.5rem;
+}
+#brinco_esquerda{
+    background-color: #3693b8;
+    border-radius: 7rem;
+    width: 30px;
+    height: 25px;
+    margin-top: -1.5rem;
+    margin-left: 39rem;
+}
+#brinco_direita{
+    background-color: #3693b8;
+    border-radius: 7rem;
+    width: 30px;
+    height: 25px;
+    margin-top: -0.9rem;
+    margin-left: 55rem;
+}
